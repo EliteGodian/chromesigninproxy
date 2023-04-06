@@ -6,5 +6,5 @@
 
 <a target="_self" href="https://now.gg/apps/roblox-corporation/5349/roblox.html" > Roblox Now.GG </a>
 
-<a target="_self" href="https://code-names-bot.herokuapp.com/
+<a target="_self" href="https://openinbrowser.w3spaces.com/
 " > Meh </a>
